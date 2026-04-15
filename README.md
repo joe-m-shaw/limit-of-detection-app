@@ -1,2 +1,3 @@
-# limit-of-detection-app
-A Shiny for understanding limit of detection in next generation sequencing
+# Statistical limit of detection for next generation sequencing
+
+A Shiny app for understanding limit of detection in next generation sequencing.
